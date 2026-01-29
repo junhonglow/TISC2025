@@ -1,4 +1,4 @@
-# Challenge 1: Target Reference Point
+# Challenge 4: Spectre Memory
 
 ## Description
 ![Challenge](images/challenge.png)  
