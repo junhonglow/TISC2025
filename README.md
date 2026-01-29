@@ -11,8 +11,8 @@ I hope this collection shows my learning journey and can serve as a reference fo
 
 | Level | Challenge       | Status     |
 |-------|----------------|-----------|
-| 1     | Challenge Name  | ✅ Solved |
-| 2     | Challenge Name  | ✅ Solved |
-| 3     | Challenge Name  | ✅ Solved |
-| 4     | Challenge Name  | ✅ Solved |
-| 5     | Challenge Name  | ❌ Unsolved |
+| 1     | Target Reference Point | ✅ Solved |
+| 2     | The Spectrecular Bot | ✅ Solved |
+| 3     | Rotary precision | ✅ Solved |
+| 4     | Spectre Memory | ✅ Solved |
+| 5     | Syntra | ❌ Unsolved |
